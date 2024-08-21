@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "1UGywJbTJeU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\t_tra\\source\\repos\\HoardingMania\\HoardingMania\\HoardingMania.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\t_tra\\.nuget\\packages\\easyhook\\2.7.7097\\easyhook.2.7.7097.nupkg.sha512",
+    "C:\\Users\\t_tra\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\t_tra\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\t_tra\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\t_tra\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'EasyHook 2.7.7097' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "EasyHook",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
